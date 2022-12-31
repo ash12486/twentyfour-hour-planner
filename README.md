@@ -29,19 +29,17 @@ Live URL : https://ash12486.github.io/twentyfour-hour-planner/
 
 ![Homepage](./Assets/Images/homepage.png)
 
-![Past, Present, Future](./assets/images/past%20present%20future.png)
+![Past, Present, Future](./Assets/Images/past_present_future.png)
 
+![Save Message](./Assets/Images/savebutton.png)
 
-![Save Message](./assets/images/savebutton.png)
-
-
-![Locage Storage](./assets/images/localestorage.png)
+![Locage Storage](./Assets/Images/localestorage.png)
 
 
 ## MOCK-UP IMAGE
 This is what the result should look like.
 
-![Final result](./assets/images/mock-up.gif)
+![mock-up](./assets/images/mock-up.gif)
 
 ## DESIGNER NOTES
 * This program uses jQuery and Bootstrap
